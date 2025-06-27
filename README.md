@@ -33,22 +33,22 @@ Meu nome é Luis Henrique, tenho 18 anos e sou natural de Tiangua. Concluí o en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" />
 </p>
-### 📊 Estatísticas
 
-<p>
+<h3 align="center">📊 Estatísticas</h3>
+
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    alt="Estatísticas do GitHub de rickzinluis" 
     src="https://github-readme-stats.vercel.app/api?username=rickzinluis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    width="420"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickzinluis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Tecnologias mais usadas por rickzinluis" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickzinluis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    width="340"
   />
 
-</p>
+</div>
